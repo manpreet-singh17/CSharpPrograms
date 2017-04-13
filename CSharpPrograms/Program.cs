@@ -10,6 +10,7 @@ namespace CSharpPrograms
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hellow github");
         }
     }
 }
