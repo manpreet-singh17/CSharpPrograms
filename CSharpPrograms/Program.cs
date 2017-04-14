@@ -48,7 +48,7 @@ namespace CSharpPrograms
             v1Obj.run();//calling base run method again but output is overridden.
 
             Car cobj = new Car();
-            cobj.run();//calling derive class Car' run method.
+            cobj.run();//calling derive class Car' run method..
 
             var v2obj = (Vehicle)cobj;//casting car obj to base obj.
             v2obj.run();//calling base run method. result in actual base run method output.
