@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPrograms", "CSharpPrograms\CSharpPrograms.csproj", "{BC5EE733-7873-47C8-8A8B-D0EA25CCEACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workingWithFlatFile", "workingWithFlatFile\workingWithFlatFile.csproj", "{E567342D-29B0-4BE7-8332-587AB407C55D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BC5EE733-7873-47C8-8A8B-D0EA25CCEACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5EE733-7873-47C8-8A8B-D0EA25CCEACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5EE733-7873-47C8-8A8B-D0EA25CCEACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E567342D-29B0-4BE7-8332-587AB407C55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E567342D-29B0-4BE7-8332-587AB407C55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E567342D-29B0-4BE7-8332-587AB407C55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E567342D-29B0-4BE7-8332-587AB407C55D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
