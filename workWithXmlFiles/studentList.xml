@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-  
-<students>
-  
-  <student id="1">
-    <name>Manpreet</name>
+<Stundets>
+  <Student>
+    <name>abc</name>
     <phone>123654789</phone>
-  </student>
-  
-  <student id="2">
-    <name>Aman</name>
-    <phone>123098765</phone>
-  </student>
-
-</students>
+    <name>def</name>
+    <phone>987456321</phone>
+  </Student>
+</Stundets>
