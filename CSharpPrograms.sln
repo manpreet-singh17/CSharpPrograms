@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workingWithFlatFile", "work
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workWithXmlFiles", "workWithXmlFiles\workWithXmlFiles.csproj", "{401AF720-563B-47AB-B55E-FE8E4310CCD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workWithDataSets", "workWithDataSets\workWithDataSets.csproj", "{BDF54CA0-B095-4E79-B074-08746729F95F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{401AF720-563B-47AB-B55E-FE8E4310CCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{401AF720-563B-47AB-B55E-FE8E4310CCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{401AF720-563B-47AB-B55E-FE8E4310CCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF54CA0-B095-4E79-B074-08746729F95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF54CA0-B095-4E79-B074-08746729F95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF54CA0-B095-4E79-B074-08746729F95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF54CA0-B095-4E79-B074-08746729F95F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
